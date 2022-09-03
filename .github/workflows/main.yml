@@ -1,21 +1,20 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "",
+"app_id": "wx18ed5cbf340c0c65",
 # 公众号appSecret
-"app_secret": "",
+"app_secret": "ed91273460920a717288de61d7e986dc",
 # 模板消息id
-"template_id": "",
+"template_id": "	iBdR9k3TfxFGipPwLeQdodmEjESO4_PxcdScQrklaeY",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["wx2", ""],
-
 # 信息配置
 # 和风天气apikey
 "weather_key": "3293cd48fee246d4856afc1f6a3b18ca",
 # 天行数据apikey
 "tian_api": " e525b4eddf81080676addc7b3f12059a",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "汝州市",
+"region": "河南省，汝州市，临汝镇",
 # 生日2
 "birthday2": {"宝": "B", "birthday": "2003-10-31"},
 # 在一起的日子，格式同上
